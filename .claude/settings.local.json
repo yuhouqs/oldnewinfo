@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list:*)",
+      "Bash(python:*)",
+      "Bash(where gh:*)",
+      "Bash(git config:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(gh auth:*)",
+      "Bash(powershell -Command \"New-Item -ItemType Junction -Path 'D:\\\\School of Business Dropbox\\\\Yu Hou\\\\Research\\\\Oldnewinfo\\\\notes' -Target 'D:\\\\Dropbox \\(Personal\\)\\\\ObsidianVault\\\\Research\\\\Oldnewinfo'\")"
+    ]
+  }
+}
