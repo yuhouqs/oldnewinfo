@@ -4,8 +4,8 @@
 
 ## Paper: "When Can the Market Identify Old News?"
 
-**Authors:** Anastassia Fedyk (UC Berkeley Haas), James Hodson (Jozef Stefan Institute / AI for Good Foundation)  
-**Journal:** Journal of Financial Economics, Vol. 149, pp. 92-113  
+**Authors:** Anastassia Fedyk (UC Berkeley Haas), James Hodson (Jozef Stefan Institute / AI for Good Foundation)
+**Journal:** Journal of Financial Economics, Vol. 149, pp. 92-113
 **Core question:** Why do markets react to old news, and what type of old news is hardest to identify?
 
 ---
@@ -136,6 +136,8 @@ LLMs could significantly improve on this approach:
 - Document model and prompt for reproducibility
 - Test stability across prompt variants
 - Could apply to both news articles and analyst reports
+
+Try to work on it soon.
 
 ---
 
